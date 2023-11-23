@@ -5,7 +5,7 @@
  */
 
 #include <iostream>
-#include "../include/tasks.h"
+#include "tasks.h"
 
 int main() {
     int n=0;
